@@ -22,12 +22,12 @@
 
 如果您还没有篡改猴，请先阅读 [篡改猴下载 | Amazing Luogu Docs](./cuangaihou.html)。
 
-- **[Github](https://github.com/zym2013/Amazing-Luogu/blob/main/index.user.js)**：本插件托管于 GitHub，在这里可以下载最最新版本的插件，但中国大部分地区需要加速才能正常访问。
-- **[Github 镜像](http://gh.halonice.com/https://raw.githubusercontent.com/zym2013/Amazing-Luogu/refs/heads/main/index.user.js)**：Github 的加速镜像，中国大部分地区都能快速访问，但不稳定，更新速度较慢。
+- **[Github](https://github.com/Snow-Domain-Smart-Fox/Amazing-Luogu/blob/main/index.user.js)**：本插件托管于 GitHub，在这里可以下载最最新版本的插件，但中国大部分地区需要加速才能正常访问。
+- **[Github 镜像](http://gh.halonice.com/https://raw.githubusercontent.com/Snow-Domain-Smart-Fox/Amazing-Luogu/refs/heads/main/index.user.js)**：Github 的加速镜像，中国大部分地区都能快速访问，但不稳定，更新速度较慢。
 
 :::info 如果镜像炸了怎么办
 
-请访问 [GitHub 文件加速代理 - 快速访问 GitHub 文件 - GitWarp](https://www.gitwarp.com/)，将下面链接复制到里面，获取加速链接。
+请访问 [GitHub 文件加速代理 - 快速访问 GitHub 文件 - GitWarp](https://www.gitwarp.com/)，将上面链接复制到里面，获取加速链接。
 
 :::
 

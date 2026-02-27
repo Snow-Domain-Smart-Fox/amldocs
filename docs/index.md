@@ -22,8 +22,6 @@ features:
     details: 拥有多种功能，满足你的需求。
   - title: 界面友好
     details: 支持开关功能，支持详细设置。
-  - title: 快速便捷
-    details: 设置导入导出，避免重复设置。
 ---
 
 <HomeUnderline />
