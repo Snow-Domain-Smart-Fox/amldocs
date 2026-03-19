@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
 	title: "Amazing Luogu Docs",
 	description: "Amazing Luogu 使用文档",
-	base: '/amldocs/',
+	base: '/',
 	themeConfig: {
 		// https://vitepress.dev/reference/default-theme-config
 		logo: '/logo.webp',
