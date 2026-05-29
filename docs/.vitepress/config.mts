@@ -28,7 +28,7 @@ export default defineConfig({
 		],
 
 		socialLinks: [
-			{ icon: 'github', link: 'https://github.com/zym2013/amazing-luogu' }
+			{ icon: 'github', link: 'https://github.com/Snow-Domain-Smart-Fox/Amazing-Luogu' }
 		],
 
 		search: {
@@ -51,7 +51,7 @@ export default defineConfig({
 
 		//编辑本页
 		editLink: {
-			pattern: 'https://github.com/zym2013/amldocs/edit/main/docs/:path', // 改成自己的仓库
+			pattern: 'https://github.com/Snow-Domain-Smart-Fox/amldocs/edit/main/docs/:path', // 改成自己的仓库
 			text: '在 GitHub 编辑本页'
 		},
 
